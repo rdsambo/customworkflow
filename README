@@ -1,8 +1,8 @@
 Custom Workflow - Liferay CE
 
-A intecao deste codigo e' definir um workflow onde apenas conteudo produzido por um grupo especifico seja visualizado para nas tarefas de workflow. Assim permitindo a sedimentacao do fluxo de trabalho por grupo de usuarios.
+A intecao deste codigo e' definir um workflow onde apenas conteudo produzido por um grupo especifico seja visualizado nas tarefas de workflow para revisores do mesmo grupo de usuario. Assim permitindo a sedimentacao do fluxo de trabalho por grupo de usuarios.
 
-Para a sedimentacao, neste caso foi usado o grupo de usuario item de distincao de sedimento, mas devido as limitacao talvez possa ser mais adequado o uso de outro item que o liferay tenha como organizacao.
+Para a sedimentacao, neste caso foi usado o grupo de usuario como item de distincao de sedimento, mas devido as limitacao do liferay talvez possa ser mais adequado o uso de outro item que o liferay tenha como a organizacao.
 
 Por falta de informacao na documentacao e foruns sobre como efetuar as configuracoes, nao pude concluir o workflow... Entao este codigo nao e' funcional. Mas acredito que pode util pra quem quiser saber sobre o assunto.
 
